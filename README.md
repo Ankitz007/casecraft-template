@@ -9,6 +9,9 @@ I made this layout from scratch using Bootstrap Studios.
 - Too much bad code, first and foremost
 - Is compatible only on full-sized screens
 - Not responsive (my bad)
-- Just for fun :))
+- Just for fun :))  
+
+The link for te same is: 
+https://ankitz007.github.io/CaseCraft-Template/
 <hr>
 Thanks guys. Cheers.
