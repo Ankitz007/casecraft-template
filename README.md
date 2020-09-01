@@ -11,7 +11,17 @@ I made this layout from scratch using Bootstrap Studios.
 - Not responsive (my bad)
 - Just for fun :))  
 
-The link for te same is: 
+The link for the same is: 
 https://ankitz007.github.io/CaseCraft-Template/
+  
+##  ScreenShots
+![Imgur](https://i.imgur.com/su2MSJl.png)
+![Imgur](https://i.imgur.com/9kboaLQ.png)
+![Imgur](https://i.imgur.com/xdZQxdP.png)
+![Imgur](https://i.imgur.com/PnZplWU.png)
+![Imgur](https://i.imgur.com/B4NvseS.png)
+![Imgur](https://i.imgur.com/x1dNHg1.png)
+
+
 <hr>
 Thanks guys. Cheers.
